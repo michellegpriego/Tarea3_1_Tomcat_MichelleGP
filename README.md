@@ -2,8 +2,8 @@
 
 # Práctica UD3 - Servidor de Aplicaciones Apache Tomcat
 
-**Alumna:** Michelle Gómez Priego [cite: 8, 937]
-**Curso:** Despregamento de Aplicacións Web 25/26 [cite: 6, 7]
+**Alumna:** Michelle Gómez Priego 
+**Curso:** Despregamento de Aplicacións Web 25/26
 
 ## Grao de completitude
 He completado todos los apartados propuestos en la tarea:
